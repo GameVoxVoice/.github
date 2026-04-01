@@ -50,7 +50,7 @@ Built by [LightSpeed Gaming LLC](https://lightspeedgaming.com), an independent c
 | macOS (11+, Intel & Apple Silicon) | ✅ Available |
 | Linux (Ubuntu, Debian, Fedora, Arch, SteamOS) | ✅ Available |
 | iOS | ✅ App Store |
-| Android | ✅ Available via Obtainium |
+| Android | ✅ Available via [Obtainium](https://github.com/BenAicholtz/gamevox-releases) |
 | Web | ✅ Available |
 
 ### Pricing
