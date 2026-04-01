@@ -51,7 +51,7 @@ Built by [LightSpeed Gaming LLC](https://lightspeedgaming.com), an independent c
 | Linux (Ubuntu, Debian, Fedora, Arch, SteamOS) | ✅ Available |
 | iOS | ✅ App Store |
 | Android | ✅ Available via Obtainium |
-| Web | 🔧 In development |
+| Web | ✅ Available |
 
 ### Pricing
 
