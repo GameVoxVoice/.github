@@ -66,7 +66,6 @@ See [gamevox.com](https://gamevox.com) for full tier details.
 | | |
 |---|---|
 | 🧡 Join GameVox | [gamevox.com](https://gamevox.com) |
-| 📥 Download | [gamevox.com/download.html](https://gamevox.com/download.html) |
 | 🐦 X (Twitter) | [@GameVoxApp](https://x.com/GameVoxApp) |
 | 💬 Official Server | [Join the community](https://gamevox.com/gamevox1) |
 | 📧 Support | support@gamevox.com |
