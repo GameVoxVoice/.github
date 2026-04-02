@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://gamevox.com">Join GameVox</a> •
   <a href="https://x.com/GameVoxApp">X (Twitter)</a> •
+  <a href="https://reddit.com/r/GameVoxApp">Reddit</a> •
   <a href="https://gamevox.com/gamevox1">Server</a>
 </p>
 
