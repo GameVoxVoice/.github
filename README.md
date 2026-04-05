@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gamevox.com">
-    <img src="https://github.com/GameVoxVoice/.github/blob/main/Assets/Banner.png" alt="GameVox" width="600" />
+    <img src="https://github.com/GameVoxVoice/.github/blob/master/Assets/Banner.png" alt="GameVox" width="600" />
   </a>
 </p>
 
